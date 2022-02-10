@@ -7,7 +7,7 @@
 </div>
   
 <div> 
-  <img align="center" width="220" height="116" src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc">
+  <img align="center" width="220" height="116" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw3-VQ5bW7pHGMHajUTbnq_p&ust=1644601591214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDN1MHY9fUCFQAAAAAdAAAAABAD">
   <img align="center" width="300" height="116" src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480">
   <img align="center" width="262" height="116" src="https://giphy.com/embed/3oKIP73vEZmJjFNXtC">
 </div>
