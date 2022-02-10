@@ -5,11 +5,11 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Luxaoo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxaoo&layout=compact&langs_count=7&theme=react" />
 
+  <img align="center" width="220" height="116" src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc">
+  <img align="center" width="300" height="116" src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480">
+  <img align="center" width="262" height="116" src="https://giphy.com/embed/3oKIP73vEZmJjFNXtC">
 </div>
-  
-    
-#### "!"
-  
+
  <h3>About Me 👨🏻💻  </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning developing software solutions and quick hacks.
